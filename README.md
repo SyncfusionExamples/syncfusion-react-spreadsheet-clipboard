@@ -1,6 +1,6 @@
 # Syncfusion React Spreadsheet Clipboard
 
-A sample demonstrating how to use clipboard operations in Syncfusion React Spreadsheet. It covers complete cut, copy, and paste functionality, including handling data from internal and external sources.
+A sample demonstrating how to use clipboard operations in [React Spreadsheet](https://www.syncfusion.com/spreadsheet-editor-sdk/react-spreadsheet-editor). It covers complete cut, copy, and paste functionality, including handling data from internal and external sources.
 
 📁 Project Structure
 
@@ -19,7 +19,7 @@ A sample demonstrating how to use clipboard operations in Syncfusion React Sprea
 
 🧩 **Technologies Used**
 
-- React + Syncfusion Spreadsheet
+- React + Spreadsheet
 
 🚀 **Getting Started**
 
